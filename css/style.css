@@ -1,0 +1,9 @@
+/*setting margin for container class*/
+.container{
+    margin: 20%;
+}
+
+/*Margin for all buttons*/
+button{
+    margin: 10px;
+}
